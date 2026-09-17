@@ -1,0 +1,11 @@
+.env
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+venv/
+temp_*.pdf
+pw_bulk_*.zip
+*.log
